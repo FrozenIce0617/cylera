@@ -3,6 +3,9 @@
 @tailwind utilities;
 
 @layer base {
+  html {
+    font-family: Helvetica, system-ui, sans-serif;
+  }
   body {
     @apply bg-gray-50;
   }
