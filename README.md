@@ -1,5 +1,8 @@
 # Cylera Frontend Developer Take-home Programming Assignment
 
+## Preview: 
+https://cylera.netlify.app/
+
 The goal of this project is to build a single component used to render the provided dataset as a table of total payload masses by mission, filtered by nation, and display the data in a doughnut chart. We created a design for this component, and your job is to implement it. This repo is a starting point, with some of the scaffolding in place to get you started. You're expected, at a minimum, to use the following technologies in your solution:
 
 - React with TypeScript
